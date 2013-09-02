@@ -14,6 +14,7 @@ that excellently. As the repo title suggests, this is only going to be a cheat s
 - `remote`
 - `master`
 - `branch`
+- `checkout`
 - `-m`
 - `-u`
 - `push`
@@ -26,3 +27,7 @@ that excellently. As the repo title suggests, this is only going to be a cheat s
 - `stage`
 - `HEAD`
 - `reset`
+
+## Lingering Questions ##
+
+- Why do `checkout <branch>` and `checkout <file>` seem to do such different things?
