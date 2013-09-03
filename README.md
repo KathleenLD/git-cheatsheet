@@ -16,6 +16,7 @@ that excellently. As the repo title suggests, this is only going to be a cheat s
 - `branch`
 - `checkout`
 - `-m`
+- `-d` === delete
 - `-u`
 - `push`
 - `fetch`
@@ -32,4 +33,13 @@ that excellently. As the repo title suggests, this is only going to be a cheat s
 ## Lingering Questions ##
 
 - Why do `checkout <branch>` and `checkout <file>` seem to do such different things?
+ - [This](http://stevelosh.com/blog/2013/04/git-koans/#one-thing-well) is not a satisfying answer.
 - Why is `HEAD` in all caps?
+
+## Resources ##
+
+- [git daily workflow](https://www.sonassi.com/wp-content/uploads/2012/07/simple_git_daily_workflow.pdf)-- One page workflow
+- [git - the simple guide](http://rogerdudler.github.io/git-guide/)
+- [try git](http://try.github.io/) Code School course
+- [GitHub support materials](https://help.github.com/)
+- [GitHub Training](http://training.github.com/web/git-foundations/)
