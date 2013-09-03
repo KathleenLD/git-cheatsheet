@@ -31,3 +31,4 @@ that excellently. As the repo title suggests, this is only going to be a cheat s
 ## Lingering Questions ##
 
 - Why do `checkout <branch>` and `checkout <file>` seem to do such different things?
+- Why is `HEAD` in all caps?
