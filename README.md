@@ -27,6 +27,7 @@ that excellently. As the repo title suggests, this is only going to be a cheat s
 - `stage`
 - `HEAD`
 - `reset`
+- `.gitignore`
 
 ## Lingering Questions ##
 
