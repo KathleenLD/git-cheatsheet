@@ -43,3 +43,4 @@ that excellently. As the repo title suggests, this is only going to be a cheat s
 - [try git](http://try.github.io/) Code School course
 - [GitHub support materials](https://help.github.com/)
 - [GitHub Training](http://training.github.com/web/git-foundations/)
+- [Git tips for beginners](http://markjberger.com/blog/git-tips-for-beginners-interested-in-open-source)
