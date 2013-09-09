@@ -12,12 +12,14 @@ that excellently. As the repo title suggests, this is only going to be a cheat s
 
 - `origin`
 - `remote`
+- `local`
 - `master`
 - `branch`
 - `checkout`
 - `-m`
 - `-d` === delete
 - `-u`
+- `-a`
 - `push`
 - `fetch`
 - `pull`
@@ -29,6 +31,7 @@ that excellently. As the repo title suggests, this is only going to be a cheat s
 - `HEAD`
 - `reset`
 - `.gitignore`
+- `diff`
 
 ## Lingering Questions ##
 
@@ -44,3 +47,8 @@ that excellently. As the repo title suggests, this is only going to be a cheat s
 - [GitHub support materials](https://help.github.com/)
 - [GitHub Training](http://training.github.com/web/git-foundations/)
 - [Git tips for beginners](http://markjberger.com/blog/git-tips-for-beginners-interested-in-open-source)
+- [Don't be afraid to commit](http://dont-be-afraid-to-commit.readthedocs.org/en/latest/) (Python/Django-focused, but a great resource nonetheless)
+- [Think Like A Git](http://think-like-a-git.net)
+- [Git and GitHub Secrets](http://zachholman.com/talk/git-github-secrets/)
+- [More Git and GitHub Secrets](http://zachholman.com/talk/more-git-and-github-secrets/)
+- [Understanding Git](http://www.sbf5.com/~cduan/technical/git/)
