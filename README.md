@@ -29,7 +29,8 @@ that excellently. As the repo title suggests, this is only going to be a cheat s
 - `merge`
 - `stage`
 - `HEAD`
-- `reset`
+- `reset` = this lets you clean up your master if you've messed it up and it's awkwardly out of sync with the upstream ([How to Reset Your Github Fork](http://scribu.net/blog/resetting-your-github-fork.html))
+- `rebase` = "Rebase helps to cut up commits and slice them into any way that you want them served up, and placed exactly where you want them. You can actually rewrite history with this command, be it reordering commits, squashing them into bigger ones, or completely ignoring them if you so desire." ([Intro to rebase](http://gitready.com/intermediate/2009/01/31/intro-to-rebase.html))
 - `.gitignore`
 - `diff`
 
