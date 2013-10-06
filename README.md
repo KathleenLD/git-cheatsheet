@@ -53,3 +53,4 @@ that excellently. As the repo title suggests, this is only going to be a cheat s
 - [Git and GitHub Secrets](http://zachholman.com/talk/git-github-secrets/)
 - [More Git and GitHub Secrets](http://zachholman.com/talk/more-git-and-github-secrets/)
 - [Understanding Git](http://www.sbf5.com/~cduan/technical/git/)
+- [GitHub Glossary](https://help.github.com/articles/github-glossary)
