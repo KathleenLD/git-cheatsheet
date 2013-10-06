@@ -18,7 +18,7 @@ that excellently. As the repo title suggests, this is only going to be a cheat s
 - `checkout`
 - `-m`
 - `-d` === delete
-- `-u`
+- `-u` set upstream
 - `-a`
 - `push`
 - `fetch`
